@@ -1,2 +1,2 @@
-const inject
+const inject  = [];
 export { inject };
